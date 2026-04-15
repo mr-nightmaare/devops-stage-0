@@ -14,7 +14,7 @@ export class AppService {
     return {
       name: 'The Supreme Gojo',
       email: 'yhungdew@gmail.com',
-      github: 'https://github.com/mr-nightmaare/devops-stage-0',
+      github: 'https://github.com/mr-nightmaare',
     };
   }
 }
